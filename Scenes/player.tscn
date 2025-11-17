@@ -1,6 +1,6 @@
 [gd_scene load_steps=73 format=3 uid="uid://d3ib53xnwaqds"]
 
-[ext_resource type="Script" uid="uid://hfssvtetbx0i" path="res://player.gd" id="1_hbt6w"]
+[ext_resource type="Script" uid="uid://hfssvtetbx0i" path="res://Scripts/player.gd" id="1_hbt6w"]
 [ext_resource type="Texture2D" uid="uid://dkjh7t4ac6cet" path="res://Assets/Character/Valkyrie_2/PNG/PNG Sequences/Dying/0_Valkyrie_Dying_000.png" id="2_y6ibu"]
 [ext_resource type="Texture2D" uid="uid://ixvqwh425gcx" path="res://Assets/Character/Valkyrie_2/PNG/PNG Sequences/Dying/0_Valkyrie_Dying_001.png" id="3_ekwva"]
 [ext_resource type="Texture2D" uid="uid://6vqy86biawhq" path="res://Assets/Character/Valkyrie_2/PNG/PNG Sequences/Dying/0_Valkyrie_Dying_002.png" id="4_fl7cw"]
